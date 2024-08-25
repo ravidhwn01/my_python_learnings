@@ -11,3 +11,5 @@ len(name)
 # list    list is mutable
 charvar = ["john" , 55,644,6453,"konan"]
 # there are many operations which can be  perform on  list :grinning:
+myList = [12,35,576,8,8,0,3,767]
+print(myList)
