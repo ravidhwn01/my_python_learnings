@@ -79,7 +79,7 @@ def huffman_decode(encoded_text, huffman_codes):
 
 # Example usage
 if __name__ == "__main__":
-    text = "ravidhawan"
+    text = "aabcdabbccabd"
     print(f"Original text: {text}")
 
     encoded_text, huffman_codes = huffman_encode(text)
